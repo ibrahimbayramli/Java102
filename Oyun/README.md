@@ -1,3 +1,4 @@
+# JAVA ile metin tabanli oyun projesi. 
 
 ## KARAKTERLER
 <table>
@@ -125,16 +126,16 @@
 ## MEKANLAR
 
 
-* Güvenli Ev
+* GÃ¼venli Ev
   
-    * Özellik : Can Yenileniyor
+    * Ã–zellik : Can Yenileniyor
  
 * Magara
  
 ## CANAVARLAR
 * Canavar : Zombi (1-3 Adet)
  
-  * Özellik : Savas + Ganimet
+  * Ã–zellik : Savas + Ganimet
  
 ## ESYA  
 * Yemek (Food)
@@ -143,7 +144,7 @@
  
 * Canavar : Vampir (1-3 Adet)
  
-  * Özellik : Savas + Ganimet
+  * Ã–zellik : Savas + Ganimet
  
 * Esya : Odun (Firewood)
   
@@ -151,14 +152,14 @@
   
 * Canavar : Ayi (1-3 Adet)
  
-  * Özellik : Savas + Ganimet
+  * Ã–zellik : Savas + Ganimet
  
 * Esya : Su (Water)
  
 ## MAGARA
-  * Özellik : Destekleyici Esyalar Satin Almak
+  * Ã–zellik : Destekleyici Esyalar Satin Almak
   
-  * Silah : Tabanca,Kiliç,Tüfek
+  * Silah : Tabanca,KiliÃ§,TÃ¼fek
  
   * Zirh : Hafif,Orta,Agir
 
